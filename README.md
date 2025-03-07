@@ -66,7 +66,7 @@ print("RMSE= ",rmse)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/a65d6603-a045-4bce-9e5e-65206031fc0b)
-![image](https://github.com/user-attachments/assets/25c67faf-df78-4f63-9bb2-d9ad1ea75e62)
+
 
 
 
